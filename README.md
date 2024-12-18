@@ -46,7 +46,7 @@ The follwoing software tools are required:
 Ensure all input files are stored in their appropriate subdirectories within the pipeline directory:
 - Genome indices in `genome/index_genome/`
 - Annotation files in `genome/reference_genome/`
-- Input FASTQ files in `/data/`.
+- Input FASTQ files in `data/`.
 
 ### Running the Script
 1. Change directory to the scripts folder.
