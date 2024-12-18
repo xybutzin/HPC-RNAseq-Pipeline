@@ -13,7 +13,7 @@ This script processes raw sequencing data in fastq or fastq.gz format, aligns it
 - Produces a consolidated text file containing featur counts of all input samples
 - Compatible with Slurm HPC clusters for efficient, parallelized execution
 
-#e Prerequites
+## Prerequites
 The follwoing software tools are required:
 - FastQC (v0.12.1 or later)
 - Bowtie (v2.5.2 or later)
