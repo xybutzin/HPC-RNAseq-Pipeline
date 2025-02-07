@@ -15,7 +15,7 @@ This script processes raw sequencing data in fastq or fastq.gz format, aligns it
 
 #e Prerequites
 The follwoing software tools are required:
-- FastQC_test (v0.12.1 or later)
+- FastQC (v0.12.1 or later)
 - Bowtie (v2.5.2 or later)
 - Samtools (v1.19 or later)
 - Subread (featureCounts)
